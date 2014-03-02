@@ -1,0 +1,12 @@
+Metadata-Version: 1.0
+Name: alchemist.catalyst
+Version: 0.4.1dev
+Summary: directed, automatic creation of user interfaces and domain objects for relational applications.
+
+Home-page: UNKNOWN
+Author: Kapil Thangavelu
+Author-email: kapil.foss@gmail.com
+License: LGPL
+Description: UNKNOWN
+Keywords: zope zope3
+Platform: UNKNOWN

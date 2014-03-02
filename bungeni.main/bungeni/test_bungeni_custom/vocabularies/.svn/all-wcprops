@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies
+END
+marital_status.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/marital_status.vdex
+END
+response_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/response_type.vdex
+END
+party.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/party.vdex
+END
+government_id.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/government_id.vdex
+END
+chamber_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/chamber_type.vdex
+END
+gender.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/gender.vdex
+END
+doc_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10619/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/doc_type.vdex
+END
+sitting_convocation_types.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/sitting_convocation_types.vdex
+END
+political_group_id.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/political_group_id.vdex
+END
+question_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/question_type.vdex
+END
+postal_address_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/postal_address_type.vdex
+END
+subject_terms.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/subject_terms.vdex
+END
+committee_continuity.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/committee_continuity.vdex
+END
+sitting_meeting_types.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/sitting_meeting_types.vdex
+END
+sitting_schedule_vote_types.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/sitting_schedule_vote_types.vdex
+END
+event_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/event_type.vdex
+END
+bill_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10619/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/bill_type.vdex
+END
+debate_media_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/debate_media_type.vdex
+END
+committee_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/committee_type.vdex
+END
+sitting_schedule_vote_result.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/sitting_schedule_vote_result.vdex
+END
+member_election_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/member_election_type.vdex
+END
+sitting_schedule_vote_majority_types.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/sitting_schedule_vote_majority_types.vdex
+END
+yes_no.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10619/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/yes_no.vdex
+END
+change_procedure.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/change_procedure.vdex
+END
+committee_id.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/committee_id.vdex
+END
+representation.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/representation.vdex
+END
+attendance_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/attendance_type.vdex
+END
+logical_address_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/logical_address_type.vdex
+END
+sitting_activity_types.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/sitting_activity_types.vdex
+END
+attachment_type.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/attachment_type.vdex
+END
+ministry_id.vdex
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10623/bungeni.main/trunk/bungeni/test_bungeni_custom/vocabularies/ministry_id.vdex
+END

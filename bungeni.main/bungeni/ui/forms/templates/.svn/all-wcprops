@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10856/bungeni.main/trunk/bungeni/ui/forms/templates
+END
+doc-minutes.pt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9986/bungeni.main/trunk/bungeni/ui/forms/templates/doc-minutes.pt
+END
+user_id.pt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/forms/templates/user_id.pt
+END
+rss-event-view.pt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/forms/templates/rss-event-view.pt
+END
+rss-link.pt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/forms/templates/rss-link.pt
+END
+delete.pt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9430/bungeni.main/trunk/bungeni/ui/forms/templates/delete.pt
+END
+form.pt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9968/bungeni.main/trunk/bungeni/ui/forms/templates/form.pt
+END
+offices-held-viewlet.pt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/forms/templates/offices-held-viewlet.pt
+END
+display-form.pt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/forms/templates/display-form.pt
+END
+group_id.pt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/forms/templates/group_id.pt
+END
+diff-form.pt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/forms/templates/diff-form.pt
+END
+content.pt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10402/bungeni.main/trunk/bungeni/ui/forms/templates/content.pt
+END
+group-sittings-viewlet.pt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/forms/templates/group-sittings-viewlet.pt
+END
+sign-open-document.pt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9968/bungeni.main/trunk/bungeni/ui/forms/templates/sign-open-document.pt
+END
+subform.pt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9909/bungeni.main/trunk/bungeni/ui/forms/templates/subform.pt
+END
+content-view.pt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9575/bungeni.main/trunk/bungeni/ui/forms/templates/content-view.pt
+END
+generic-sub-container.pt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10425/bungeni.main/trunk/bungeni/ui/forms/templates/generic-sub-container.pt
+END
+group-members.pt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10382/bungeni.main/trunk/bungeni/ui/forms/templates/group-members.pt
+END
+mp-item-viewlet.pt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9474/bungeni.main/trunk/bungeni/ui/forms/templates/mp-item-viewlet.pt
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/9981/ploned.ui/trunk/ploned/ui/templates
+END
+contentmenu.pt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9981/ploned.ui/trunk/ploned/ui/templates/contentmenu.pt
+END
+personaltools.pt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9067/ploned.ui/trunk/ploned/ui/templates/personaltools.pt
+END
+contentviews.pt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6262/ploned.ui/trunk/ploned/ui/templates/contentviews.pt
+END
+ploned-template.pt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/9067/ploned.ui/trunk/ploned/ui/templates/ploned-template.pt
+END
+contentactions.pt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/7728/ploned.ui/trunk/ploned/ui/templates/contentactions.pt
+END

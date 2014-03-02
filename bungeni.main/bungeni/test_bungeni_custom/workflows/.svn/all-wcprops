@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows
+END
+question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/question.xml
+END
+group_membership.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/group_membership.xml
+END
+report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/report.xml
+END
+user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/user.xml
+END
+signatory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/signatory.xml
+END
+event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/event.xml
+END
+sitting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/sitting.xml
+END
+bill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10824/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/bill.xml
+END
+group_assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/group_assignment.xml
+END
+address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/address.xml
+END
+committee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/committee.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/__init__.py
+END
+attachment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/attachment.xml
+END
+group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/group.xml
+END
+parliament.xml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/parliament.xml
+END
+heading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10559/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/heading.xml
+END
+_conditions.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10846/bungeni.main/trunk/bungeni/test_bungeni_custom/workflows/_conditions.py
+END

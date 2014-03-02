@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/403/ore.alchemist/trunk/src/ore/alchemist
+END
+introspector.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/400/ore.alchemist/trunk/src/ore/alchemist/introspector.py
+END
+vocabulary.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/vocabulary.txt
+END
+keyreference.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/keyreference.txt
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/278/ore.alchemist/trunk/src/ore/alchemist/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/__init__.py
+END
+model.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/380/ore.alchemist/trunk/src/ore/alchemist/model.py
+END
+sa2zs.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/380/ore.alchemist/trunk/src/ore/alchemist/sa2zs.py
+END
+zs2sa.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/299/ore.alchemist/trunk/src/ore/alchemist/zs2sa.py
+END
+meta.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/meta.zcml
+END
+zcml.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/394/ore.alchemist/trunk/src/ore/alchemist/zcml.py
+END
+keyreference.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/299/ore.alchemist/trunk/src/ore/alchemist/keyreference.py
+END
+vocabulary.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/367/ore.alchemist/trunk/src/ore/alchemist/vocabulary.py
+END
+container.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/403/ore.alchemist/trunk/src/ore/alchemist/container.txt
+END
+manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/380/ore.alchemist/trunk/src/ore/alchemist/manager.py
+END
+exc.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/400/ore.alchemist/trunk/src/ore/alchemist/exc.py
+END
+container.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/403/ore.alchemist/trunk/src/ore/alchemist/container.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/400/ore.alchemist/trunk/src/ore/alchemist/interfaces.py
+END
+session.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/400/ore.alchemist/trunk/src/ore/alchemist/session.py
+END
+property.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/299/ore.alchemist/trunk/src/ore/alchemist/property.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/readme.txt
+END
+graphviz.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/299/ore.alchemist/trunk/src/ore/alchemist/graphviz.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/7282/bungeni.main/trunk/bungeni/rest
+END
+rest.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7282/bungeni.main/trunk/bungeni/rest/rest.py
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/7282/bungeni.main/trunk/bungeni/rest/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/7282/bungeni.main/trunk/bungeni/rest/__init__.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/7282/bungeni.main/trunk/bungeni/rest/interfaces.py
+END

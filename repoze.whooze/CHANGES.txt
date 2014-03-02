@@ -1,0 +1,15 @@
+Changelog
+=========
+
+In next release
+
+  - The ``groups`` attribute is now a dictionary with group ids
+   mapping to groups. The authentication framework expects it to be an
+   iterable that yields the group id.
+
+  - Fire event upon creation of who principal.
+
+0.1
+
+  Initial release.
+

@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+<configure xmlns="http://namespaces.zope.org/zope"
+           xmlns:browser="http://namespaces.zope.org/browser"
+           i18n_domain="plone">
+
+  <browser:viewletManager
+     name="plone.portalheader"
+     provides=".interfaces.IPortalHeaderManager"
+     layer=".interfaces.IPlonedSkin"
+     class="zope.viewlet.manager.WeightOrderedViewletManager"
+     permission="zope.Public"
+     />
+
+  <browser:viewletManager
+     name="plone.portaltools"
+     provides=".interfaces.IPortalToolsManager"
+     layer=".interfaces.IPlonedSkin"
+     class="zope.viewlet.manager.WeightOrderedViewletManager"
+     permission="zope.Public"
+     />
+
+
+  <browser:viewletManager
+     name="plone.portalfooter"
+     provides=".interfaces.IPortalFooterManager"
+     layer=".interfaces.IPlonedSkin"
+     permission="zope.Public"
+     />
+     
+  <browser:viewletManager
+     name="plone.contentviews"
+     provides=".interfaces.IContentViewsManager"
+     layer=".interfaces.IPlonedSkin"
+     class=".viewlet.ContentViewsManager"
+     permission="zope.Public"
+     />
+
+  <browser:viewletManager
+     name="plone.abovecontent"
+     provides=".interfaces.IAboveContentManager"
+     layer=".interfaces.IPlonedSkin"
+     permission="zope.Public"
+     />
+
+  <browser:viewletManager
+     name="plone.belowcontent"
+     provides=".interfaces.IBelowContentManager"
+     layer=".interfaces.IPlonedSkin"
+     permission="zope.Public"
+     />
+
+  <browser:viewletManager
+     name="plone.leftcolumn"
+     provides=".interfaces.ILeftColumnManager"
+     layer=".interfaces.IPlonedSkin"
+     class="zope.viewlet.manager.WeightOrderedViewletManager"
+     permission="zope.Public"
+     />
+
+  <browser:viewletManager
+     name="plone.rightcolumn"
+     provides=".interfaces.IRightColumnManager"
+     layer=".interfaces.IPlonedSkin"
+     permission="zope.ManageContent"
+     />
+
+ <!-- TODO: The content actions viewlet should require zope.ManageContent -->
+ 
+   <browser:viewlet
+      name="plone.content.personaltools"
+      for="*"
+      manager=".interfaces.IPortalHeaderManager"
+      template="templates/personaltools.pt"
+      class=".viewlet.StructureAwareViewlet"
+      permission="zope.Public"
+      weight="50"
+      />
+
+   <!-- TODO: The content actions viewlet should require zope.ManageContent -->
+
+   <browser:viewlet
+      name="plone.contentactions"
+      for="*"
+      manager=".interfaces.IContentViewsManager"
+      template="templates/contentactions.pt"
+      class=".viewlet.ContentActionsViewlet"
+      permission="zope.Public"
+      weight="20"
+      />
+   
+</configure>

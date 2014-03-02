@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Bungeni Parliamentary Information System - http://www.bungeni.org/
+  Copyright (C) 2010 - Africa i-Parliaments - http://www.parliaments.info/
+  Licensed under GNU GPL v2 - http://www.gnu.org/licenses/gpl-2.0.txt
+  
+  RNC Schema for Bungeni Workflow XML Format
+  Created: Mario Ruggier, 22-nov-2012
+  
+  Note: Always modify the RNC file - the RNG version is auto-derived from it:
+  one way to auto-derive workflow.rng from this file is:
+    java -jar trang.jar -I rnc -O rng workflow.rnc generated/workflow.rng
+  
+  $Id$
+-->
+<!--
+  the local namespace is an empty string 
+  namespace local=""
+-->
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <include href="common.rng"/>
+  <start>
+    <ref name="WORKFLOW"/>
+  </start>
+  <define name="WORKFLOW">
+    <element name="workflow">
+      <attribute name="title"/>
+      <!-- i18n msgid -->
+      <attribute name="description"/>
+      <optional>
+        <!-- i18n msgid -->
+        <attribute name="tags">
+          <ref name="SPACE_SEPARATED_SYMBOLS"/>
+        </attribute>
+      </optional>
+      <optional>
+        <!-- declare any (system-defined) tags used in workflow -->
+        <attribute name="note"/>
+      </optional>
+      <optional>
+        <attribute name="permission_actions">
+          <ref name="SPACE_SEPARATED_TOKENS"/>
+        </attribute>
+      </optional>
+      <!--
+        type-relative permission actions
+        i.e. each included action allowed to be in the form [type_key].{Action}, 
+        with the optional type_key defaulting to the type_key of the type 
+        "owning" this workflow.
+      -->
+      <ref name="FOREIGN_NS_ATTRS"/>
+      <zeroOrMore>
+        <ref name="ALLOW"/>
+      </zeroOrMore>
+      <zeroOrMore>
+        <ref name="FEATURE"/>
+      </zeroOrMore>
+      <zeroOrMore>
+        <ref name="FACET"/>
+      </zeroOrMore>
+      <oneOrMore>
+        <ref name="STATE"/>
+      </oneOrMore>
+      <oneOrMore>
+        <ref name="TRANSITION"/>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="ALLOW">
+    <element name="allow">
+      <attribute name="permission"/>
+      <attribute name="roles">
+        <ref name="SPACE_SEPARATED_TOKENS"/>
+      </attribute>
+      <optional>
+        <attribute name="note"/>
+      </optional>
+    </element>
+  </define>
+  <define name="FEATURE">
+    <element name="feature">
+      <attribute name="name">
+        <ref name="SYMBOL_NAME"/>
+      </attribute>
+      <attribute name="enabled">
+        <data type="boolean"/>
+      </attribute>
+      <optional>
+        <attribute name="note"/>
+      </optional>
+      <ref name="FOREIGN_NS_ATTRS"/>
+      <zeroOrMore>
+        <element name="parameter">
+          <!-- !+ name by feature -->
+          <attribute name="name">
+            <ref name="SYMBOL_NAME"/>
+          </attribute>
+          <!-- !+ unique name per feature -->
+          <attribute name="value"/>
+          <optional>
+            <attribute name="note"/>
+          </optional>
+        </element>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="FACET">
+    <element name="facet">
+      <attribute name="name">
+        <ref name="SYMBOL_NAME"/>
+      </attribute>
+      <optional>
+        <attribute name="default">
+          <data type="boolean"/>
+        </attribute>
+      </optional>
+      <optional>
+        <!-- default:false, may be true only once -->
+        <attribute name="note"/>
+      </optional>
+      <ref name="FOREIGN_NS_ATTRS"/>
+      <zeroOrMore>
+        <ref name="ALLOW"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  <define name="STATE">
+    <element name="state">
+      <attribute name="id">
+        <ref name="SYMBOL_NAME"/>
+      </attribute>
+      <attribute name="title"/>
+      <optional>
+        <!-- i18n msgid -->
+        <attribute name="actions">
+          <ref name="SPACE_SEPARATED_SYMBOLS"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="note"/>
+      </optional>
+      <optional>
+        <attribute name="obsolete">
+          <data type="boolean"/>
+        </attribute>
+      </optional>
+      <!-- default:false -->
+      <!-- if (permissions_from_state | parent_permissions) -> then NO facets -->
+      <choice>
+        <optional>
+          <!-- may have EITHER permissions_from_state OR parent_permissions -->
+          <choice>
+            <!-- use exact permissions as specified by the name state -->
+            <attribute name="permissions_from_state">
+              <ref name="SYMBOL_NAME"/>
+            </attribute>
+            <!-- state.id -->
+            <!--
+              use the exact permissions as explicitly specified by the parent 
+              (in its current state) for this child document type
+            -->
+            <attribute name="parent_permissions">
+              <data type="boolean"/>
+            </attribute>
+          </choice>
+          <!-- default:false -->
+        </optional>
+        <group>
+          <optional>
+            <!--
+              anonymous same-workflow facet:
+              - there may be only one anonymous facet per state 
+                (that would be instead of referring to one from same workflow)
+              - an anonymous state facet is NOT available for re-use from any 
+                other state (in same or other workflow)
+              - an anonymous facet may (of course) NOT be set as the default
+                facet for the workflow
+            -->
+            <element name="facet">
+              <optional>
+                <attribute name="note"/>
+              </optional>
+              <zeroOrMore>
+                <ref name="ALLOW"/>
+              </zeroOrMore>
+            </element>
+          </optional>
+          <zeroOrMore>
+            <!--
+              one ref to a workflow facet (if an anonymous facet is NOT present),
+              plus up to one facet ref per feature
+            -->
+            <element name="facet">
+              <attribute name="ref">
+                <ref name="FACET_REFERENCE"/>
+              </attribute>
+              <optional>
+                <attribute name="note"/>
+              </optional>
+            </element>
+          </zeroOrMore>
+        </group>
+      </choice>
+    </element>
+  </define>
+  <define name="TRANSITION">
+    <element name="transition">
+      <attribute name="title"/>
+      <!-- i18n msgid -->
+      <attribute name="source">
+        <choice>
+          <ref name="SPACE_SEPARATED_SYMBOLS"/>
+          <empty/>
+        </choice>
+      </attribute>
+      <!-- space separated list of state ids -->
+      <attribute name="destination">
+        <ref name="SYMBOL_NAME"/>
+      </attribute>
+      <optional>
+        <!-- state.id -->
+        <attribute name="grouping_unique_sources">
+          <data type="token" datatypeLibrary=""/>
+        </attribute>
+      </optional>
+      <optional>
+        <!-- a transition grouping id -->
+        <attribute name="condition">
+          <choice>
+            <ref name="SYMBOL_NAME"/>
+            <empty/>
+          </choice>
+        </attribute>
+      </optional>
+      <!-- callable -->
+      <choice>
+        <attribute name="trigger">
+          <value>automatic</value>
+        </attribute>
+        <group>
+          <attribute name="trigger">
+            <choice>
+              <value>system</value>
+              <value>manual</value>
+            </choice>
+          </attribute>
+          <optional>
+            <attribute name="roles">
+              <ref name="SPACE_SEPARATED_TOKENS"/>
+            </attribute>
+          </optional>
+        </group>
+      </choice>
+      <optional>
+        <attribute name="order">
+          <data type="integer"/>
+        </attribute>
+      </optional>
+      <optional>
+        <!-- default:0 -->
+        <attribute name="require_confirmation">
+          <data type="boolean"/>
+        </attribute>
+      </optional>
+      <optional>
+        <!-- default:false -->
+        <attribute name="note"/>
+      </optional>
+    </element>
+  </define>
+  <!--
+    A valid facet reference may be composed of
+    - (optional) a workflow feature name : SYMBOL_NAME
+    - (optional) IF a feature name is specified, this may be also qualified 
+      further with:
+      - a literal "#" char
+      - followed by a type_key : SYMBOL_NAME
+    - a single literal "." char
+    - a facet name : SYMBOL_NAME
+    where SYMBOL_NAME is a valid programming language symbol 
+    (see common.rnc). Leading/trailing white-space is allowed.
+    
+    [ {workflow_feature.@name} [ #{qualifier type_key} ] ].{facet.@name}
+    
+  -->
+  <define name="FACET_REFERENCE">
+    <data type="string">
+      <param name="pattern">\s*([a-zA-Z_][\w_]*([#][a-zA-Z_][\w_]*)?)?\.[a-zA-Z_][\w_]*\s*</param>
+    </data>
+  </define>
+</grammar>

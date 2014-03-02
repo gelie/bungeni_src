@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10822/bungeni.main/trunk/bungeni/ui/calendar
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10672/bungeni.main/trunk/bungeni/ui/calendar/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9239/bungeni.main/trunk/bungeni/ui/calendar/utils.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/7588/bungeni.main/trunk/bungeni/ui/calendar/tests.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10454/bungeni.main/trunk/bungeni/ui/calendar/interfaces.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10822/bungeni.main/trunk/bungeni/ui/calendar/browser.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9239/bungeni.main/trunk/bungeni/ui/calendar/readme.txt
+END
+events.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10672/bungeni.main/trunk/bungeni/ui/calendar/events.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/8633/bungeni.main/trunk/bungeni/ui/calendar/config.py
+END
+lgpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/calendar/lgpl.txt
+END
+data.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10673/bungeni.main/trunk/bungeni/ui/calendar/data.py
+END

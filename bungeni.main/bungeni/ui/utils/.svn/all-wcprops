@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10854/bungeni.main/trunk/bungeni/ui/utils
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10064/bungeni.main/trunk/bungeni/ui/utils/debug.py
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10758/bungeni.main/trunk/bungeni/ui/utils/common.py
+END
+odt2txt.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/8282/bungeni.main/trunk/bungeni/ui/utils/odt2txt.py
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10854/bungeni.main/trunk/bungeni/ui/utils/misc.py
+END
+report_tools.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10256/bungeni.main/trunk/bungeni/ui/utils/report_tools.py
+END
+date.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10336/bungeni.main/trunk/bungeni/ui/utils/date.py
+END
+queries.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10537/bungeni.main/trunk/bungeni/ui/utils/queries.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/utils/__init__.py
+END
+url.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10525/bungeni.main/trunk/bungeni/ui/utils/url.py
+END
+validations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10537/bungeni.main/trunk/bungeni/ui/utils/validations.txt
+END

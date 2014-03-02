@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/10881/bungeni.main/trunk/bungeni/ui/forms
+END
+viewlets.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10872/bungeni.main/trunk/bungeni/ui/forms/viewlets.py
+END
+forms.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10863/bungeni.main/trunk/bungeni/ui/forms/forms.zcml
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/8419/bungeni.main/trunk/bungeni/ui/forms/interfaces.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9451/bungeni.main/trunk/bungeni/ui/forms/readme.txt
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9909/bungeni.main/trunk/bungeni/ui/forms/fields.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10697/bungeni.main/trunk/bungeni/ui/forms/forms.py
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10881/bungeni.main/trunk/bungeni/ui/forms/common.py
+END
+workflow.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10519/bungeni.main/trunk/bungeni/ui/forms/workflow.py
+END
+validations.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10537/bungeni.main/trunk/bungeni/ui/forms/validations.py
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10856/bungeni.main/trunk/bungeni/ui/forms/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/forms/__init__.py
+END
+overrides.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8129/bungeni.main/trunk/bungeni/ui/forms/overrides.zcml
+END
+test_dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/forms/test_dates.py
+END

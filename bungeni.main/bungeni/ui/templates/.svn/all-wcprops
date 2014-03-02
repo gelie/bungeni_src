@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10479/bungeni.main/trunk/bungeni/ui/templates
+END
+app-index.pt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/app-index.pt
+END
+debate-takes.pt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10479/bungeni.main/trunk/bungeni/ui/templates/debate-takes.pt
+END
+generic-container.pt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/generic-container.pt
+END
+auto-complete-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/auto-complete-widget.pt
+END
+text-datetime-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/text-datetime-widget.pt
+END
+bungeni-content.pt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9168/bungeni.main/trunk/bungeni/ui/templates/bungeni-content.pt
+END
+yui-calwidget.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/templates/yui-calwidget.js
+END
+one-time-textinput-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/templates/one-time-textinput-widget.pt
+END
+report-error.pt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/report-error.pt
+END
+image-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/image-widget.pt
+END
+workspace-listing.pt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/workspace-listing.pt
+END
+search.pt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9775/bungeni.main/trunk/bungeni/ui/templates/search.pt
+END
+attendance.pt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10245/bungeni.main/trunk/bungeni/ui/templates/attendance.pt
+END
+assignment.pt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10479/bungeni.main/trunk/bungeni/ui/templates/assignment.pt
+END
+workflow.pt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9081/bungeni.main/trunk/bungeni/ui/templates/workflow.pt
+END
+select-date-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/select-date-widget.pt
+END
+date-input-search.pt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/9662/bungeni.main/trunk/bungeni/ui/templates/date-input-search.pt
+END
+xapian-settings.pt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/xapian-settings.pt
+END
+viewlet.pt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/templates/viewlet.pt
+END
+archive.pt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/archive.pt
+END
+listing-view.pt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/listing-view.pt
+END
+paged-search.pt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/9775/bungeni.main/trunk/bungeni/ui/templates/paged-search.pt
+END
+version.pt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9147/bungeni.main/trunk/bungeni/ui/templates/version.pt
+END
+bungenicontent.odt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/8725/bungeni.main/trunk/bungeni/ui/templates/bungenicontent.odt
+END
+listing-viewlet.pt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/listing-viewlet.pt
+END
+advanced-paged-search.pt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/9775/bungeni.main/trunk/bungeni/ui/templates/advanced-paged-search.pt
+END
+add-file-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/add-file-widget.pt
+END
+date-input-search-widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9732/bungeni.main/trunk/bungeni/ui/templates/date-input-search-widget.js
+END
+select-datetime-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/select-datetime-widget.pt
+END
+workflow-ajax.pt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/workflow-ajax.pt
+END
+text-input-search-widget.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9741/bungeni.main/trunk/bungeni/ui/templates/text-input-search-widget.js
+END
+similar.pt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/8129/bungeni.main/trunk/bungeni/ui/templates/similar.pt
+END
+debate-record.pt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10413/bungeni.main/trunk/bungeni/ui/templates/debate-record.pt
+END
+error-page.pt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/error-page.pt
+END
+datatable-workspace.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9351/bungeni.main/trunk/bungeni/ui/templates/datatable-workspace.js
+END
+diff.pt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/diff.pt
+END
+datatable.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9351/bungeni.main/trunk/bungeni/ui/templates/datatable.js
+END
+workspace-interests.pt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/9577/bungeni.main/trunk/bungeni/ui/templates/workspace-interests.pt
+END
+batching.pt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/batching.pt
+END
+text-date-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/text-date-widget.pt
+END
+search-result.pt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/search-result.pt
+END
+mail.pt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8791/bungeni.main/trunk/bungeni/ui/templates/mail.pt
+END
+agenda.odt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/7720/bungeni.main/trunk/bungeni/ui/templates/agenda.odt
+END
+restore-password.pt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/templates/restore-password.pt
+END
+edit-file-widget.pt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10385/bungeni.main/trunk/bungeni/ui/templates/edit-file-widget.pt
+END

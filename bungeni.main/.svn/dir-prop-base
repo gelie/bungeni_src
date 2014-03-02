@@ -1,0 +1,21 @@
+K 10
+svn:ignore
+V 44
+.project
+.pydevproject
+.settings
+*.egg-info
+
+K 13
+svn:mergeinfo
+V 440
+/bungeni.main/branches/murithi-pre-merge:8707-9022
+/bungeni.main/branches/notifications-20120626:9437-9468
+/bungeni.main/branches/sterch-issue690:8447-8788
+/bungeni.main/branches/sterch-issue706:8403-8418
+/bungeni.main/branches/sterch-issue712:8414-8436
+/bungeni.main/branches/sterch-issue734:8668-8732
+/bungeni.main/branches/sterch-routing:8336-8361
+/bungeni.main/branches/sterch-search:7918-8065
+/bungeni.main/branches/wf-rework:7665-7708
+END

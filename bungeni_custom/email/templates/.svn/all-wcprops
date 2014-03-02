@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10835/bungeni_custom/trunk/email/templates
+END
+assembly_motion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/assembly_motion.xml
+END
+senate_motion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/senate_motion.xml
+END
+assembly_question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/assembly_question.xml
+END
+senate_question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/senate_question.xml
+END
+senate_tabled_document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/senate_tabled_document.xml
+END
+assembly_tabled_document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/assembly_tabled_document.xml
+END
+agenda_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10596/bungeni_custom/trunk/email/templates/agenda_item.xml
+END
+bicameral_document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10730/bungeni_custom/trunk/email/templates/bicameral_document.xml
+END
+assembly_sitting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/assembly_sitting.xml
+END
+senate_sitting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/senate_sitting.xml
+END
+sitting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10273/bungeni_custom/trunk/email/templates/sitting.xml
+END
+senate_bill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/senate_bill.xml
+END
+assembly_bill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10808/bungeni_custom/trunk/email/templates/assembly_bill.xml
+END

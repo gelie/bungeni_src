@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/reporting/templates/scheduling
+END
+bi_weekly_questions.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/reporting/templates/scheduling/bi_weekly_questions.html
+END
+sitting_minutes.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/reporting/templates/scheduling/sitting_minutes.html
+END
+weekly_business.html
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/reporting/templates/scheduling/weekly_business.html
+END
+sitting_agenda.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/reporting/templates/scheduling/sitting_agenda.html
+END

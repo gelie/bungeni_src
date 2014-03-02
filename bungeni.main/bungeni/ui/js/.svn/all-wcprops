@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10119/bungeni.main/trunk/bungeni/ui/js
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/js/__init__.py
+END
+dhtmlxscheduler.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10119/bungeni.main/trunk/bungeni/ui/js/dhtmlxscheduler.py
+END
+behavior.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10041/bungeni.main/trunk/bungeni/ui/js/behavior.js
+END
+plugins.js
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9977/bungeni.main/trunk/bungeni/ui/js/plugins.js
+END
+form_tabbing.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9495/bungeni.main/trunk/bungeni/ui/js/form_tabbing.js
+END

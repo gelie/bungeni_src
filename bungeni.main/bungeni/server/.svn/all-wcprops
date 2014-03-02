@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10131/bungeni.main/trunk/bungeni/server
+END
+ftesting.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/8124/bungeni.main/trunk/bungeni/server/ftesting.zcml
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10131/bungeni.main/trunk/bungeni/server/startup.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6738/bungeni.main/trunk/bungeni/server/interfaces.py
+END
+testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6738/bungeni.main/trunk/bungeni/server/testing.py
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9471/bungeni.main/trunk/bungeni/server/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6741/bungeni.main/trunk/bungeni/server/__init__.py
+END

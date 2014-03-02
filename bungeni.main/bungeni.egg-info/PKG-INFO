@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: bungeni
+Version: 0.2
+Summary: server packaging, deployment, startup of bungeni server
+Home-page: http://www.bungeni.org
+Author: Bungeni Developers
+Author-email: bungeni-dev@googlegroups.com
+License: GPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python
+Classifier: Environment :: Web Environment
+Classifier: Topic :: Internet :: WWW/HTTP :: WSGI :: Application
+Classifier: Framework :: Zope3

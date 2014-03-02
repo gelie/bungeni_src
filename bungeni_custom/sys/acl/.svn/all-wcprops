@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10816/bungeni_custom/trunk/sys/acl
+END
+translation.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/9803/bungeni_custom/trunk/sys/acl/translation.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10172/bungeni_custom/trunk/sys/acl/__init__.py
+END

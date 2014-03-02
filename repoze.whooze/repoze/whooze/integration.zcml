@@ -1,0 +1,45 @@
+<configure xmlns="http://namespaces.zope.org/zope"
+           xmlns:meta="http://namespaces.zope.org/meta"
+           xmlns:browser="http://namespaces.zope.org/browser"
+           i18n_domain="meeee">
+
+  <include package="zope.app.zcmlfiles" file="meta.zcml" />
+  <include package="zope.securitypolicy" file="meta.zcml" />
+
+  <include package="zope.publisher" />
+  <include package="zope.traversing" />
+  <include package="zope.traversing.browser" />
+  <include package="zope.securitypolicy" />
+  <include package="zope.app.zcmlfiles" />
+
+  <includeOverrides package="repoze.whooze" file="overrides.zcml" />
+
+  <securityPolicy
+      component="zope.securitypolicy.zopepolicy.ZopeSecurityPolicy" />
+
+  <browser:page
+      for="*"
+      name="public.html"
+      class="repoze.whooze.tests.SomePage"
+      permission="zope.Public"
+      />
+
+  <browser:page
+      for="*"
+      name="protected.html"
+      class="repoze.whooze.tests.SomePage"
+      permission="zope.ManageContent"
+      />
+
+  <browser:page
+      for="*"
+      name="principal.html"
+      class="repoze.whooze.tests.PrincipalPage"
+      permission="zope.Public"
+      />
+
+  <grant permission="zope.View" principal="zope.anybody" />
+  <grant permission="zope.View" principal="testing.somedude" />
+  <grantAll principal="testing.somemanager" />
+
+</configure>

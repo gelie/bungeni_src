@@ -1,0 +1,6 @@
+setuptools
+repoze.who
+zope.interface
+zope.app.security
+SQLAlchemy
+WebOb

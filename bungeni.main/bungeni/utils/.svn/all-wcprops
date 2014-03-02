@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10816/bungeni.main/trunk/bungeni/utils
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/utils/misc.py
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9862/bungeni.main/trunk/bungeni/utils/i18n.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/7855/bungeni.main/trunk/bungeni/utils/__init__.py
+END
+register.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10126/bungeni.main/trunk/bungeni/utils/register.py
+END
+xmlconfexport.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10816/bungeni.main/trunk/bungeni/utils/xmlconfexport.py
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10523/bungeni.main/trunk/bungeni/utils/common.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10444/bungeni.main/trunk/bungeni/utils/error.py
+END
+naming.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10460/bungeni.main/trunk/bungeni/utils/naming.py
+END

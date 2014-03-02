@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10888/bungeni.main/trunk/bungeni/capi/_schema/generated
+END
+roles.rng
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10816/bungeni.main/trunk/bungeni/capi/_schema/generated/roles.rng
+END
+common.rng
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10888/bungeni.main/trunk/bungeni/capi/_schema/generated/common.rng
+END
+notifications.rng
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10577/bungeni.main/trunk/bungeni/capi/_schema/generated/notifications.rng
+END
+workflow.rng
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10888/bungeni.main/trunk/bungeni/capi/_schema/generated/workflow.rng
+END
+descriptor.rng
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/capi/_schema/generated/descriptor.rng
+END
+workspace.rng
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10577/bungeni.main/trunk/bungeni/capi/_schema/generated/workspace.rng
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10028/ploned.ui/trunk/ploned/ui
+END
+meta.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6504/ploned.ui/trunk/ploned/ui/meta.zcml
+END
+menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10028/ploned.ui/trunk/ploned/ui/menu.py
+END
+zcml.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/8912/ploned.ui/trunk/ploned/ui/zcml.py
+END
+dtmlresource.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/8912/ploned.ui/trunk/ploned/ui/dtmlresource.py
+END
+content.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6262/ploned.ui/trunk/ploned/ui/content.py
+END
+viewlet.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/9562/ploned.ui/trunk/ploned/ui/viewlet.py
+END
+skin.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/7100/ploned.ui/trunk/ploned/ui/skin.zcml
+END
+menu.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6504/ploned.ui/trunk/ploned/ui/menu.zcml
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/8898/ploned.ui/trunk/ploned/ui/browser.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8912/ploned.ui/trunk/ploned/ui/interfaces.py
+END
+macros.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6262/ploned.ui/trunk/ploned/ui/macros.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6262/ploned.ui/trunk/ploned/ui/readme.txt
+END
+js.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/7728/ploned.ui/trunk/ploned/ui/js.zcml
+END
+skindirectory.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/8912/ploned.ui/trunk/ploned/ui/skindirectory.py
+END
+viewlet.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/7728/ploned.ui/trunk/ploned/ui/viewlet.zcml
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/8912/ploned.ui/trunk/ploned/ui/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6262/ploned.ui/trunk/ploned/ui/__init__.py
+END

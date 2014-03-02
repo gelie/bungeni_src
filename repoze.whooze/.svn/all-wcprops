@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/!svn/ver/3893/repoze.whooze/trunk
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1271/repoze.whooze/trunk/TODO.txt
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1271/repoze.whooze/trunk/ez_setup.py
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/3893/repoze.whooze/trunk/CHANGES.txt
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/1271/repoze.whooze/trunk/COPYRIGHT.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/1283/repoze.whooze/trunk/setup.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/1281/repoze.whooze/trunk/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/1271/repoze.whooze/trunk/LICENSE.txt
+END

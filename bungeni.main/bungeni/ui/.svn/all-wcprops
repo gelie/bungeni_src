@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/10892/bungeni.main/trunk/bungeni/ui
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9301/bungeni.main/trunk/bungeni/ui/tests.py
+END
+meta.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/7979/bungeni.main/trunk/bungeni/ui/meta.zcml
+END
+traversal.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10835/bungeni.main/trunk/bungeni/ui/traversal.py
+END
+globalSemaphore.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/7979/bungeni.main/trunk/bungeni/ui/globalSemaphore.py
+END
+zcml.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/7979/bungeni.main/trunk/bungeni/ui/zcml.py
+END
+search.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10382/bungeni.main/trunk/bungeni/ui/search.py
+END
+attendance.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/9862/bungeni.main/trunk/bungeni/ui/attendance.py
+END
+downloaddocument.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10823/bungeni.main/trunk/bungeni/ui/downloaddocument.py
+END
+audit.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10505/bungeni.main/trunk/bungeni/ui/audit.py
+END
+rss.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10533/bungeni.main/trunk/bungeni/ui/rss.py
+END
+vocabulary.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10867/bungeni.main/trunk/bungeni/ui/vocabulary.py
+END
+login.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10722/bungeni.main/trunk/bungeni/ui/login.py
+END
+assignment.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10860/bungeni.main/trunk/bungeni/ui/assignment.py
+END
+publication.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10892/bungeni.main/trunk/bungeni/ui/publication.py
+END
+api.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10854/bungeni.main/trunk/bungeni/ui/api.py
+END
+content.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/content.py
+END
+workflow.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10519/bungeni.main/trunk/bungeni/ui/workflow.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/8584/bungeni.main/trunk/bungeni/ui/errors.py
+END
+rest.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/ui/rest.py
+END
+adaptors.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10413/bungeni.main/trunk/bungeni/ui/adaptors.py
+END
+absoluteurl.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10835/bungeni.main/trunk/bungeni/ui/absoluteurl.zcml
+END
+file.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10833/bungeni.main/trunk/bungeni/ui/file.py
+END
+i18n.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10049/bungeni.main/trunk/bungeni/ui/i18n.py
+END
+proxy.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9168/bungeni.main/trunk/bungeni/ui/proxy.py
+END
+menu.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10881/bungeni.main/trunk/bungeni/ui/menu.zcml
+END
+z3evoque.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10336/bungeni.main/trunk/bungeni/ui/z3evoque.py
+END
+container.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10835/bungeni.main/trunk/bungeni/ui/container.py
+END
+browser.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/9563/bungeni.main/trunk/bungeni/ui/browser.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/9474/bungeni.main/trunk/bungeni/ui/feeds.py
+END
+resources.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10835/bungeni.main/trunk/bungeni/ui/resources.zcml
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10693/bungeni.main/trunk/bungeni/ui/admin.py
+END
+feature.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10856/bungeni.main/trunk/bungeni/ui/feature.py
+END
+tz.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/tz.py
+END
+htmldiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9223/bungeni.main/trunk/bungeni/ui/htmldiff.py
+END
+workspace.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10872/bungeni.main/trunk/bungeni/ui/workspace.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/9413/bungeni.main/trunk/bungeni/ui/__init__.py
+END
+ftesting.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10087/bungeni.main/trunk/bungeni/ui/ftesting.zcml
+END
+absoluteurl.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10246/bungeni.main/trunk/bungeni/ui/absoluteurl.py
+END
+redirect.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10530/bungeni.main/trunk/bungeni/ui/redirect.py
+END
+menu.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10579/bungeni.main/trunk/bungeni/ui/menu.py
+END
+widgets.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10779/bungeni.main/trunk/bungeni/ui/widgets.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/9920/bungeni.main/trunk/bungeni/ui/fields.py
+END
+versions.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10114/bungeni.main/trunk/bungeni/ui/versions.py
+END
+views.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10891/bungeni.main/trunk/bungeni/ui/views.zcml
+END
+app.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10480/bungeni.main/trunk/bungeni/ui/app.py
+END
+oauth.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10881/bungeni.main/trunk/bungeni/ui/oauth.py
+END
+skin.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10881/bungeni.main/trunk/bungeni/ui/skin.zcml
+END
+archive.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/archive.py
+END
+search.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10835/bungeni.main/trunk/bungeni/ui/search.zcml
+END
+workspaceadapters.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9960/bungeni.main/trunk/bungeni/ui/workspaceadapters.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/10784/bungeni.main/trunk/bungeni/ui/interfaces.py
+END
+debaterecord.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10479/bungeni.main/trunk/bungeni/ui/debaterecord.py
+END
+table.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10336/bungeni.main/trunk/bungeni/ui/table.py
+END
+rest.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10382/bungeni.main/trunk/bungeni/ui/rest.zcml
+END
+cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/7296/bungeni.main/trunk/bungeni/ui/cookies.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/10523/bungeni.main/trunk/bungeni/ui/views.py
+END
+downloaddocument.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9474/bungeni.main/trunk/bungeni/ui/downloaddocument.txt
+END
+reports.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10773/bungeni.main/trunk/bungeni/ui/reports.py
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10832/bungeni.main/trunk/bungeni/ui/configure.zcml
+END
+calendar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6736/bungeni.main/trunk/bungeni/ui/calendar.txt
+END

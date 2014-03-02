@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/403/ore.alchemist/trunk
+END
+bootstrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/386/ore.alchemist/trunk/bootstrap.py
+END
+buildout.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/386/ore.alchemist/trunk/buildout.cfg
+END
+LICENSE.ZPL
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/279/ore.alchemist/trunk/LICENSE.ZPL
+END
+changes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/341/ore.alchemist/trunk/changes.txt
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/400/ore.alchemist/trunk/setup.py
+END

@@ -1,0 +1,20 @@
+<roles>
+<role name="CommitteeMember" />
+<role name="Transcriber.Editor" />
+<role name="Minister" />
+<role name="Owner" />
+<role name="Clerk.HeadClerk" />
+<role name="Signatory" />
+<role name="Anonymous" />
+<role name="MP" />
+<role name="Authenticated" />
+<role name="Speaker" />
+<role name="PoliticalGroupMember" />
+<role name="Admin" />
+<role name="Government" />
+<role name="Transcriber" />
+<role name="Clerk.QuestionClerk" />
+<role name="Transcriber.Reporter" />
+<role name="Translator" />
+<role name="Clerk" />
+</roles>

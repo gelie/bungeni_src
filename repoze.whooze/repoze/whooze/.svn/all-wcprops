@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/3893/repoze.whooze/trunk/repoze/whooze
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/1272/repoze.whooze/trunk/repoze/whooze/__init__.py
+END
+overrides.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/1272/repoze.whooze/trunk/repoze/whooze/overrides.zcml
+END
+integration.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/1272/repoze.whooze/trunk/repoze/whooze/integration.zcml
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3893/repoze.whooze/trunk/repoze/whooze/auth.py
+END
+plugins.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/1282/repoze.whooze/trunk/repoze/whooze/plugins.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/3893/repoze.whooze/trunk/repoze/whooze/tests.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/3755/repoze.whooze/trunk/repoze/whooze/interfaces.py
+END
+events.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/3755/repoze.whooze/trunk/repoze/whooze/events.py
+END

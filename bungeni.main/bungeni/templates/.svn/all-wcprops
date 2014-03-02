@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10382/bungeni.main/trunk/bungeni/templates
+END
+audit.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/audit.html
+END
+diff.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/diff.html
+END
+content.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/content.html
+END
+workflow.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/workflow.html
+END
+workspace_viewlets.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10382/bungeni.main/trunk/bungeni/templates/workspace_viewlets.html
+END
+ploned.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/ploned.html
+END
+container.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/container.html
+END
+version.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/version.html
+END
+scheduling.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/scheduling.html
+END
+bungeni.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/bungeni.html
+END
+workspace.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/workspace.html
+END
+navigation.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9894/bungeni.main/trunk/bungeni/templates/navigation.html
+END
+delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/delete.html
+END
+viewlets.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10382/bungeni.main/trunk/bungeni/templates/viewlets.html
+END
+form.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/form.html
+END
+workspace_myinterests.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/9562/bungeni.main/trunk/bungeni/templates/workspace_myinterests.html
+END

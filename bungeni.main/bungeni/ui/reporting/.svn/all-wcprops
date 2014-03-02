@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10209/bungeni.main/trunk/bungeni/ui/reporting
+END
+generators.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10209/bungeni.main/trunk/bungeni/ui/reporting/generators.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8606/bungeni.main/trunk/bungeni/ui/reporting/__init__.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/8647/bungeni.main/trunk/bungeni/ui/reporting/interfaces.py
+END

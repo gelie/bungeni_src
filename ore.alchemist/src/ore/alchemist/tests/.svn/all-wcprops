@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/386/ore.alchemist/trunk/src/ore/alchemist/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/tests/__init__.py
+END
+test_sa2zs.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/245/ore.alchemist/trunk/src/ore/alchemist/tests/test_sa2zs.py
+END
+test_zs2sa.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/386/ore.alchemist/trunk/src/ore/alchemist/tests/test_zs2sa.py
+END
+test_container.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/380/ore.alchemist/trunk/src/ore/alchemist/tests/test_container.py
+END
+txncheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/244/ore.alchemist/trunk/src/ore/alchemist/tests/txncheck.py
+END

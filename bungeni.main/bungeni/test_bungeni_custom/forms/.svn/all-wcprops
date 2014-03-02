@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms
+END
+office_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/office_member.xml
+END
+bill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/bill.xml
+END
+political_group_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/political_group_member.xml
+END
+government.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/government.xml
+END
+committee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/committee.xml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/__init__.py
+END
+minister.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/minister.xml
+END
+office.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/office.xml
+END
+parliament.xml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/parliament.xml
+END
+political_group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/political_group.xml
+END
+_constraints.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10539/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/_constraints.py
+END
+test_doc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/test_doc.xml
+END
+_validations.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10537/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/_validations.py
+END
+question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/question.xml
+END
+member_of_parliament.xml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/member_of_parliament.xml
+END
+committee_staff.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/committee_staff.xml
+END
+report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/report.xml
+END
+ui.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/ui.xml
+END
+committee_member.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/committee_member.xml
+END
+ministry.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10757/bungeni.main/trunk/bungeni/test_bungeni_custom/forms/ministry.xml
+END

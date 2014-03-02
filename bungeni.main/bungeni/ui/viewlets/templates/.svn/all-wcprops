@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10593/bungeni.main/trunk/bungeni/ui/viewlets/templates
+END
+schedulable-items.pt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/schedulable-items.pt
+END
+report-preview.pt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/viewlets/templates/report-preview.pt
+END
+workspace.pt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/10087/bungeni.main/trunk/bungeni/ui/viewlets/templates/workspace.pt
+END
+search.pt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/viewlets/templates/search.pt
+END
+bread-crumbs.pt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/10593/bungeni.main/trunk/bungeni/ui/viewlets/templates/bread-crumbs.pt
+END
+signatories-status.pt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/viewlets/templates/signatories-status.pt
+END
+workspace-under-consideration.pt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/9577/bungeni.main/trunk/bungeni/ui/viewlets/templates/workspace-under-consideration.pt
+END
+processing.pt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/8129/bungeni.main/trunk/bungeni/ui/viewlets/templates/processing.pt
+END
+archive-dates.pt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/archive-dates.pt
+END
+workspace-doc-marker.pt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10041/bungeni.main/trunk/bungeni/ui/viewlets/templates/workspace-doc-marker.pt
+END
+bungeni-navigation-tree.pt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/9894/bungeni.main/trunk/bungeni/ui/viewlets/templates/bungeni-navigation-tree.pt
+END
+portlet-contentactions.pt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/portlet-contentactions.pt
+END
+language.pt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/language.pt
+END
+secondary-navigation.pt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/secondary-navigation.pt
+END
+scheduling.pt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/scheduling.pt
+END
+sections.pt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/10046/bungeni.main/trunk/bungeni/ui/viewlets/templates/sections.pt
+END
+feed-resource.pt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/9077/bungeni.main/trunk/bungeni/ui/viewlets/templates/feed-resource.pt
+END

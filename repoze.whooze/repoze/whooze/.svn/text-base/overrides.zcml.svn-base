@@ -1,0 +1,6 @@
+<configure xmlns="http://namespaces.zope.org/zope">
+  <utility
+      provides="zope.app.security.interfaces.IAuthentication"
+      factory="repoze.whooze.auth.WhoAuthentication"
+      />
+</configure>

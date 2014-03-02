@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10778/bungeni.main/trunk/bungeni/portal
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/9471/bungeni.main/trunk/bungeni/portal/configure.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6737/bungeni.main/trunk/bungeni/portal/__init__.py
+END

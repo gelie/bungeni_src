@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows
+END
+bicameral_document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/bicameral_document.xml
+END
+user.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/10867/bungeni_custom/trunk/workflows/user.xml
+END
+signatory.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10877/bungeni_custom/trunk/workflows/signatory.xml
+END
+sitting.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10672/bungeni_custom/trunk/workflows/sitting.xml
+END
+event.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10877/bungeni_custom/trunk/workflows/event.xml
+END
+assembly_bill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/assembly_bill.xml
+END
+senate_bill.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/senate_bill.xml
+END
+debate_record.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10832/bungeni_custom/trunk/workflows/debate_record.xml
+END
+group_assignment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/group_assignment.xml
+END
+address.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10871/bungeni_custom/trunk/workflows/address.xml
+END
+committee.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10658/bungeni_custom/trunk/workflows/committee.xml
+END
+_actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10867/bungeni_custom/trunk/workflows/_actions.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/7974/bungeni_custom/trunk/workflows/__init__.py
+END
+attachment.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10877/bungeni_custom/trunk/workflows/attachment.xml
+END
+assembly_tabled_document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10850/bungeni_custom/trunk/workflows/assembly_tabled_document.xml
+END
+senate_tabled_document.xml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/10850/bungeni_custom/trunk/workflows/senate_tabled_document.xml
+END
+group.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10867/bungeni_custom/trunk/workflows/group.xml
+END
+parliament.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10867/bungeni_custom/trunk/workflows/parliament.xml
+END
+agenda_item.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10850/bungeni_custom/trunk/workflows/agenda_item.xml
+END
+heading.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10674/bungeni_custom/trunk/workflows/heading.xml
+END
+event_response.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10877/bungeni_custom/trunk/workflows/event_response.xml
+END
+_conditions.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10846/bungeni_custom/trunk/workflows/_conditions.py
+END
+assembly_motion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/assembly_motion.xml
+END
+senate_motion.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/senate_motion.xml
+END
+assembly_question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/assembly_question.xml
+END
+senate_question.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10878/bungeni_custom/trunk/workflows/senate_question.xml
+END
+group_membership.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10871/bungeni_custom/trunk/workflows/group_membership.xml
+END
+report.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10596/bungeni_custom/trunk/workflows/report.xml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10871/bungeni_custom/trunk/workflows/README.txt
+END

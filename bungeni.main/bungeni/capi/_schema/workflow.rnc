@@ -1,0 +1,138 @@
+# Bungeni Parliamentary Information System - http://www.bungeni.org/
+# Copyright (C) 2010 - Africa i-Parliaments - http://www.parliaments.info/
+# Licensed under GNU GPL v2 - http://www.gnu.org/licenses/gpl-2.0.txt
+#
+# RNC Schema for Bungeni Workflow XML Format
+# Created: Mario Ruggier, 22-nov-2012
+# 
+# Note: Always modify the RNC file - the RNG version is auto-derived from it:
+# one way to auto-derive workflow.rng from this file is:
+#   java -jar trang.jar -I rnc -O rng workflow.rnc generated/workflow.rng
+# 
+# $Id: workflow.rnc 10888 2013-04-15 14:57:45Z ashok.hariharan $
+
+# the local namespace is an empty string 
+#namespace local=""
+grammar {
+    include "common.rnc"
+    start = WORKFLOW
+    
+    WORKFLOW = element workflow {
+        attribute title { text }, # i18n msgid
+        attribute description { text }, # i18n msgid
+        attribute tags { SPACE_SEPARATED_SYMBOLS }?, # declare any (system-defined) tags used in workflow
+        attribute note { text }?,
+        attribute permission_actions { SPACE_SEPARATED_TOKENS }?, # type-relative permission actions
+        # i.e. each included action allowed to be in the form [type_key].{Action}, 
+        # with the optional type_key defaulting to the type_key of the type 
+        # "owning" this workflow.
+        FOREIGN_NS_ATTRS,
+        ALLOW*,
+        FEATURE*,
+        FACET*,
+        STATE+,
+        TRANSITION+
+    }
+    
+    ALLOW = element allow {
+        attribute permission { text }, 
+        attribute roles { SPACE_SEPARATED_TOKENS },
+        attribute note { text }?
+    }
+
+    FEATURE = element feature {
+        attribute name { SYMBOL_NAME },
+        attribute enabled { xsd:boolean },
+        attribute note { text }?,
+        FOREIGN_NS_ATTRS,
+        element parameter { # !+ name by feature
+            attribute name { SYMBOL_NAME }, # !+ unique name per feature
+            attribute value { text },
+            attribute note { text }?
+        }*
+    }
+    
+    FACET = element facet {
+        attribute name { SYMBOL_NAME },
+        attribute default { xsd:boolean }?, # default:false, may be true only once
+        attribute note { text }?,
+        FOREIGN_NS_ATTRS,
+        ALLOW*
+    }
+    
+    STATE = element state {
+        attribute id { SYMBOL_NAME },
+        attribute title { text }, # i18n msgid
+        attribute actions { SPACE_SEPARATED_SYMBOLS }?,
+        attribute note { text }?,
+        attribute obsolete { xsd:boolean }?, # default:false
+        
+        # if (permissions_from_state | parent_permissions) -> then NO facets
+        (
+            # may have EITHER permissions_from_state OR parent_permissions
+            (
+                # use exact permissions as specified by the name state
+                attribute permissions_from_state { SYMBOL_NAME }  # state.id
+                    |   # use the exact permissions as explicitly specified by the parent 
+                        # (in its current state) for this child document type
+                    attribute parent_permissions { xsd:boolean }  # default:false
+            )?
+            |
+            (
+                # anonymous same-workflow facet:
+                # - there may be only one anonymous facet per state 
+                #   (that would be instead of referring to one from same workflow)
+                # - an anonymous state facet is NOT available for re-use from any 
+                #   other state (in same or other workflow)
+                # - an anonymous facet may (of course) NOT be set as the default
+                #   facet for the workflow
+                element facet { 
+                    attribute note { text }?,
+                    ALLOW*
+                }?,
+                # one ref to a workflow facet (if an anonymous facet is NOT present),
+                # plus up to one facet ref per feature
+                element facet {
+                    attribute ref { FACET_REFERENCE },
+                    attribute note { text }?
+                }*
+            )
+        )
+    }
+    
+    TRANSITION = element transition {
+        attribute title { text }, # i18n msgid
+        attribute source { SPACE_SEPARATED_SYMBOLS | empty }, # space separated list of state ids
+        attribute destination { SYMBOL_NAME }, # state.id
+        attribute grouping_unique_sources { token }?, # a transition grouping id
+        attribute condition { SYMBOL_NAME | empty }?, # callable
+        (attribute trigger { "automatic" }
+            | (attribute trigger { "system" | "manual" }, 
+                attribute roles { SPACE_SEPARATED_TOKENS }?)
+        ),
+        attribute order { xsd:integer }?, # default:0
+        attribute require_confirmation { xsd:boolean }?,  # default:false
+        attribute note { text }?
+    }
+    
+    
+    # A valid facet reference may be composed of
+    # - (optional) a workflow feature name : SYMBOL_NAME
+    # - (optional) IF a feature name is specified, this may be also qualified 
+    #   further with:
+    #   - a literal "#" char
+    #   - followed by a type_key : SYMBOL_NAME
+    # - a single literal "." char
+    # - a facet name : SYMBOL_NAME
+    # where SYMBOL_NAME is a valid programming language symbol 
+    # (see common.rnc). Leading/trailing white-space is allowed.
+    #
+    # [ {workflow_feature.@name} [ #{qualifier type_key} ] ].{facet.@name}
+    #
+    FACET_REFERENCE = xsd:string { 
+        pattern="\s*([a-zA-Z_][\w_]*([#][a-zA-Z_][\w_]*)?)?\.[a-zA-Z_][\w_]*\s*"
+    }
+
+
+}
+

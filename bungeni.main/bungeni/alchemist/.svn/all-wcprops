@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/alchemist
+END
+catalyst.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10806/bungeni.main/trunk/bungeni/alchemist/catalyst.py
+END
+zcml.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/zcml.py
+END
+security.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/security.py
+END
+type_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/alchemist/type_info.py
+END
+ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/10793/bungeni.main/trunk/bungeni/alchemist/ui.py
+END
+descriptor.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10875/bungeni.main/trunk/bungeni/alchemist/descriptor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10783/bungeni.main/trunk/bungeni/alchemist/utils.py
+END
+model.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/alchemist/model.py
+END
+container.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/container.py
+END
+sa2zs.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/sa2zs.py
+END
+meta.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/meta.zcml
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/interfaces.py
+END
+traversal.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10800/bungeni.main/trunk/bungeni/alchemist/traversal.py
+END

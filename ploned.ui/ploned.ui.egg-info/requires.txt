@@ -1,0 +1,4 @@
+setuptools
+zope.publisher
+zope.documenttemplate
+zope.viewlet

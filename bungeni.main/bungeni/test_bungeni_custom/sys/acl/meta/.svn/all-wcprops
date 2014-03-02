@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/meta
+END
+venue.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/meta/venue.zcml
+END
+session.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/meta/session.zcml
+END

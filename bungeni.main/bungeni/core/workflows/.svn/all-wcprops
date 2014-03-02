@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/core/workflows
+END
+dia.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10336/bungeni.main/trunk/bungeni/core/workflows/dia.py
+END
+question.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10820/bungeni.main/trunk/bungeni/core/workflows/question.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/6734/bungeni.main/trunk/bungeni/core/workflows/__init__.py
+END
+_actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10867/bungeni.main/trunk/bungeni/core/workflows/_actions.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10867/bungeni.main/trunk/bungeni/core/workflows/utils.py
+END
+adapters.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/core/workflows/adapters.py
+END
+events.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/8792/bungeni.main/trunk/bungeni/core/workflows/events.py
+END
+dbutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10820/bungeni.main/trunk/bungeni/core/workflows/dbutils.py
+END
+_conditions.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10856/bungeni.main/trunk/bungeni/core/workflows/_conditions.py
+END
+motion-trans.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/7751/bungeni.main/trunk/bungeni/core/workflows/motion-trans.xsl
+END
+bill.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/9474/bungeni.main/trunk/bungeni/core/workflows/bill.txt
+END
+testing.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10440/bungeni.main/trunk/bungeni/core/workflows/testing.py
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/9991/bungeni.main/trunk/bungeni/core/workflows/simple.py
+END
+motion.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/9481/bungeni.main/trunk/bungeni/core/workflows/motion.txt
+END

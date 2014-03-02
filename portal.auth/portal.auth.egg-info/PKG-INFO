@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: portal.auth
+Version: 0.1
+Summary: Authentication module for Bungeni Portal
+Home-page: UNKNOWN
+Author: Bungeni team
+Author-email: info@bungeni.org
+License: GPL
+Description: UNKNOWN
+Keywords: zope3
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Framework :: Zope3

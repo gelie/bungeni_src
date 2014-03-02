@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/ui/descriptor
+END
+configure.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/8462/bungeni.main/trunk/bungeni/ui/descriptor/configure.zcml
+END
+descriptor.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/ui/descriptor/descriptor.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/10480/bungeni.main/trunk/bungeni/ui/descriptor/__init__.py
+END
+field.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/10685/bungeni.main/trunk/bungeni/ui/descriptor/field.py
+END
+restore.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10875/bungeni.main/trunk/bungeni/ui/descriptor/restore.py
+END
+constraints.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/10539/bungeni.main/trunk/bungeni/ui/descriptor/constraints.py
+END
+localization.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/10887/bungeni.main/trunk/bungeni/ui/descriptor/localization.py
+END
+listing.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/10535/bungeni.main/trunk/bungeni/ui/descriptor/listing.py
+END

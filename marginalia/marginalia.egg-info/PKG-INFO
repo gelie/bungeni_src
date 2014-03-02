@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: marginalia
+Version: 0.2
+Summary: Marginalia user document annotations
+Home-page: UNKNOWN
+Author: Bungeni Developers
+Author-email: bungeni-dev@googlegroups.com
+License: GPL
+Description: UNKNOWN
+Keywords: zope3 bungeni
+Platform: UNKNOWN
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Internet :: WWW/HTTP
+Classifier: Framework :: Zope3

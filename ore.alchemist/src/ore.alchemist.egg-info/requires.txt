@@ -1,0 +1,6 @@
+setuptools
+transaction
+SQLAlchemy
+zope.app.container
+zope.app.testing
+zope.sqlalchemy

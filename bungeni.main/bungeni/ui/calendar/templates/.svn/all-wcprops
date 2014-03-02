@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10822/bungeni.main/trunk/bungeni/ui/calendar/templates
+END
+scheduler.pt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/9840/bungeni.main/trunk/bungeni/ui/calendar/templates/scheduler.pt
+END
+dhtmlxcalendar_edit_form.pt
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/9177/bungeni.main/trunk/bungeni/ui/calendar/templates/dhtmlxcalendar_edit_form.pt
+END
+dhtmlxcalendar.pt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10822/bungeni.main/trunk/bungeni/ui/calendar/templates/dhtmlxcalendar.pt
+END
+dhtmlxcalendarxml.pt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/10257/bungeni.main/trunk/bungeni/ui/calendar/templates/dhtmlxcalendarxml.pt
+END
+calendar-macros.pt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10473/bungeni.main/trunk/bungeni/ui/calendar/templates/calendar-macros.pt
+END

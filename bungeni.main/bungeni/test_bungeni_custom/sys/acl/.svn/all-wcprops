@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl
+END
+permissions.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/permissions.zcml
+END
+parliamentary_meta.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/parliamentary_meta.zcml
+END
+translation.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/translation.zcml
+END
+parliamentary_content.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/parliamentary_content.zcml
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/__init__.py
+END
+roles.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/10356/bungeni.main/trunk/bungeni/test_bungeni_custom/sys/acl/roles.zcml
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/10822/bungeni.main/trunk/bungeni/ui/resources/calendar
+END
+schedule-editor.css
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10667/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-editor.css
+END
+schedule-config.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/10778/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-config.js
+END
+schedule-editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/9623/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-editor.js
+END
+schedule-editor-minutes.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/10485/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-editor-minutes.js
+END
+calendar-multisource.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/9761/bungeni.main/trunk/bungeni/ui/resources/calendar/calendar-multisource.js
+END
+calendar-extensions.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/10822/bungeni.main/trunk/bungeni/ui/resources/calendar/calendar-extensions.js
+END
+schedule-editor-core.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/10473/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-editor-core.js
+END
+schedule-available-items.js
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/10570/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-available-items.js
+END
+schedule-preview.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/10063/bungeni.main/trunk/bungeni/ui/resources/calendar/schedule-preview.js
+END

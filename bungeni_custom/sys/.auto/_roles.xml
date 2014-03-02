@@ -1,0 +1,29 @@
+<roles>
+<role name="CommitteeMember" />
+<role name="ClerkSenate" />
+<role name="SpeakerSenate" />
+<role name="Minister" />
+<role name="Owner" />
+<role name="Clerk.HeadClerk" />
+<role name="Signatory" />
+<role name="Transcriber.Editor" />
+<role name="ClerkAssembly.QuestionClerk" />
+<role name="Anonymous" />
+<role name="Clerk.QuestionClerk" />
+<role name="Authenticated" />
+<role name="GroupMember" />
+<role name="ClerkSenate.QuestionClerk" />
+<role name="PoliticalGroupMember" />
+<role name="Government" />
+<role name="ClerkAssembly" />
+<role name="Admin" />
+<role name="ClerkAssembly.HeadClerk" />
+<role name="Speaker" />
+<role name="Transcriber" />
+<role name="MP" />
+<role name="Transcriber.Reporter" />
+<role name="ClerkSenate.HeadClerk" />
+<role name="SpeakerAssembly" />
+<role name="Translator" />
+<role name="Clerk" />
+</roles>

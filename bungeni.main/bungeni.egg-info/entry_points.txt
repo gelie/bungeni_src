@@ -1,0 +1,9 @@
+[paste.app_factory]
+main = bungeni.server.startup:application_factory
+
+[zc.buildout]
+i18n = bungeni.utils.i18n:I18n
+
+[console_scripts]
+bungeni-reset-db = bungeni.core.schema:reset_database
+

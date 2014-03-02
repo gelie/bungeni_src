@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10873/bungeni.main/trunk/bungeni/core/workflow
+END
+dot.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/10348/bungeni.main/trunk/bungeni/core/workflow/dot.py
+END
+xmlimport.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/10871/bungeni.main/trunk/bungeni/core/workflow/xmlimport.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/7911/bungeni.main/trunk/bungeni/core/workflow/__init__.py
+END
+interfaces.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10350/bungeni.main/trunk/bungeni/core/workflow/interfaces.py
+END
+states.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/10873/bungeni.main/trunk/bungeni/core/workflow/states.py
+END

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<configure xmlns="http://namespaces.zope.org/zope"
+           xmlns:browser="http://namespaces.zope.org/browser"
+           i18n_domain="plone">
+
+  <browser:viewletManager
+      name="plone-js"
+      provides=".interfaces.IJavaScriptManager"
+      layer=".interfaces.IPlonedSkin"
+      permission="zope.Public"
+      class="zope.viewlet.manager.WeightOrderedViewletManager"
+      />
+
+  <browser:viewlet
+     name="plone-dropdown"
+     for="*"
+     class=".js.Dropdown"
+     manager=".interfaces.IJavaScriptManager"
+     permission="zope.Public"
+     layer=".interfaces.IPlonedSkin"
+     weight="10"
+     />
+
+</configure>

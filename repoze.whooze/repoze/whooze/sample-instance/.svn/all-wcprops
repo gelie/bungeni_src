@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/1279/repoze.whooze/trunk/repoze/whooze/sample-instance
+END
+site.zcml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1279/repoze.whooze/trunk/repoze/whooze/sample-instance/site.zcml
+END
+who.ini
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1279/repoze.whooze/trunk/repoze/whooze/sample-instance/who.ini
+END
+passwd
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1279/repoze.whooze/trunk/repoze/whooze/sample-instance/passwd
+END
+startz3.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1279/repoze.whooze/trunk/repoze/whooze/sample-instance/startz3.py
+END

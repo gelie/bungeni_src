@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10273/bungeni.main/trunk/bungeni/core/tests
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6734/bungeni.main/trunk/bungeni/core/tests/__init__.py
+END
+test_doctests.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/10273/bungeni.main/trunk/bungeni/core/tests/test_doctests.py
+END
